@@ -1,6 +1,7 @@
-window.onload = loadCookieList:
-var answers = [];
-var fillin = "";
+window.onload = loadCookieList;
+var myList = [];
+var Listinstring = "";
+var input = "";
 
 
 function fillinblanks(){
